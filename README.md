@@ -17,4 +17,4 @@ Move the card to Done when you are ready.
 
 If you don't know how to use git you can edit the file on-line.
 
-Translate one item on the table of contents each time in a file named as the item like `Understanding The Swarm` or `The Swarm Is Open...`.
+Translate one item on the table of contents each time in a file named like this `Part_I_Understanding_The_Swarm` or `Part_I_The_Swarm_Is_Open`.
