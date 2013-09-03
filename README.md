@@ -5,3 +5,5 @@ Spanish translation of Swarmwise from Rick Falkvigne
 
 Original English Version(pdf)
 http://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1.1-2013Sep01.pdf
+
+Find what can you do here https://trello.com/b/gnxXGd9E/swarmwise-translation
