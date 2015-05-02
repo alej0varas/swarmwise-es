@@ -9,17 +9,36 @@ http://falkvinge.net/files/2013/04/Swarmwise-2013-by-Rick-Falkvinge-v1.1-2013Sep
 Contribute
 ==========
 
+Easy way
+--------
+
+Choose a page, translate it and send me an email with the translation.
+
+Not so easy way
+---------------
+
+Create an account on Github and edit the file on-line.
+
+
+"Hard" way
+----------
+
 Look here if there is something to do, https://trello.com/b/gnxXGd9E/swarmwise-translation
 
 Assign your self to the card and move it to Doing.
 
-Move the card to Done when you are ready.
+1. Fork the repository
 
-If you don't know how to use git you can edit the file on-line.
+2. Translate one page at a time in the folder `book`. If a paragraph ends in the next page, translate the entire paragraph in the page it starts.
 
-Translate one item on the table of contents each time in a file named like this `Part_I_Understanding_The_Swarm` or `Part_I_The_Swarm_Is_Open`.
+3. Create a Pull Request
 
-The files Chapter_I.txt and Chapter_II.txt are copies from:
+4. Move the card to Done when you are ready.
+
+Sources
+-------
+
+Files Chapter_I.txt and Chapter_II.txt are copies from:
 
 http://piratasdemadrid.org/2013/08/manual-tactico-para-cambiar-el-mundo-capitulo-1/
 http://piratasdemadrid.org/2013/09/manual-tactico-para-cambiar-el-mundo-capitulo-segundo/
