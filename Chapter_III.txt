@@ -53,9 +53,39 @@ En un grupo de dos personas tenemos que cuidar de una sola relación.
 En un grupo de tres personas tenemos que cuidar de tres relaciones(A
 con B, B con C y A con C).
 
-[dibujo]
+[image-00-page-53.png]
 
 En un grupo de cinco de pronto hay 4+3+2+1 = diez relaciones. Ahora si
 el grupo crece hasta el número critico de siete personas hay veintiuna
 relaciones que el grupo tiene que mantener entre las personas para
 funcionar como un grupo de trabajo.
+
+Como podemos ver en estos cálculos, la complejidad social del grupo
+incrementa más rápido que el tamaño del grupo. En algún punto el grupo
+se vuelve ineficiente, gastando tanto esfuerzo en mantener el grupo
+cohesionado que casi no se trabaja.
+
+Cuando agregamos un octavo miembro al grupo el número de relaciones que
+hay que mantener aumenta desde veintiuno a veintiocho. Por lo que
+agregar un octavo miembro al grupo agrega un 14 por ciento de capacidad
+de trabajo comparado con siete personas, también requiere que el grupo
+gaste 33 por ciento más de su capacidad de trabajo combinada en la
+tarea de mantener al grupo en si, en mantener veintiocho relaciones en
+vez de veintiuna. En este punto o algunas veces cuando se agrega un
+noveno miembro, el grupo se desmorona.
+
+Lo que hemos aprendido aquí es que la plataforma necesita ser
+construida de manera que no mas de siete personas trabajen
+directamente con otra en un contexto ajustado.
+
+Hacemos esto en una manera tradicional, construyendo el diagrama
+organizacional de la plataforma de manera que ninguna persona esté
+trabajando con más de seis en un contexto dado. Esto significa que
+para una geografía dada (como un estado, país, ciudad, etc.) en el
+diagrama organizacional esta debe ser dividida en seis geografías más
+pequeñas que tengan una persona responsable.
+
+Por ahora llamaremos a este tipo de oficial un líder geográfico del enjambre.
+swarm. El puede ser un líder de estado, líder de ciudad, líder de
+<circuit> - una geografía de cualquier tamaño - pero sus deberes serán
+básicamente los mismos.
