@@ -89,3 +89,6 @@ Por ahora llamaremos a este tipo de oficial un líder geográfico del enjambre.
 swarm. El puede ser un líder de estado, líder de ciudad, líder de
 <circuit> - una geografía de cualquier tamaño - pero sus deberes serán
 básicamente los mismos.
+(page 55)
+(page ...)
+(page 80)
