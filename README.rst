@@ -18,6 +18,7 @@ How to translate
  - Use the glossary when in doubt of a term
  - If a paragraph ends in the following page translate the entire paragraph in the same page
  - If a paragraph starts in the previous page ignore it
+ - Use "`" to enclose italic text
 
 1. Look here if there is something to do in https://trello.com/b/gnxXGd9E/swarmwise-translation
 2. Assign your self to the card and move it to Doing.

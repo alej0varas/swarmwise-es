@@ -1,5 +1,5 @@
 El número 150 aparece en muchos lugares en la historia organizativa
-del hombre. Es nuestro "máximo tamaño de tribu". En un contexto dado,
+del hombre. Es nuestro `máximo tamaño de tribu`. En un contexto dado,
 nosotros tenemos la capacidad de conocer este cantidad de personas por
 su nombre y tener el vinculo más débil con ellos.
 

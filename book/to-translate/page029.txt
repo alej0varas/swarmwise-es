@@ -1,4 +1,4 @@
-Enero 1, 2006, a las 8:30pm Hora central europea
+`Enero 1, 2006, a las 8:30pm Hora central europea
 
 Habiendo trabajado en el sitio del Partido Pirata en mi tiempo libre duranto el feriado, mañana será un día de trabajo normal, y este día de Año Nuevo se acaba. Termino mi trabajo en el sitio, reemplazo lo no terminado con el texto "Placeholder," y lo pongo en linea.
 
@@ -7,4 +7,4 @@ Habiendo puesto en liena el sitio en un estado muy rudimentario, elijo anunciarl
 "Oye, mira, el Partido Pirata tiene su sitio web activo después de Año Nuevo.
 http://www.piratpartiet.se/"
 
-Mirando en el servidor web, veo la primera hola de visitantes venir inmediatamente a mis lineas en el chat, probablemente una dozena. Luego viene un goteo de visitantes secundarios, personas avisadas de mi iniciativa por la primera oleada. Las primeras firmas electronicas apoyando el registro formal del partido llegan. Después de treinta firmas y otras dos horas, siento que debo estar felíz con el lanzamiento, hago un respaldo completo, y voy a dormir para ir al tarbajo mañana.
+Mirando en el servidor web, veo la primera hola de visitantes venir inmediatamente a mis lineas en el chat, probablemente una dozena. Luego viene un goteo de visitantes secundarios, personas avisadas de mi iniciativa por la primera oleada. Las primeras firmas electronicas apoyando el registro formal del partido llegan. Después de treinta firmas y otras dos horas, siento que debo estar felíz con el lanzamiento, hago un respaldo completo, y voy a dormir para ir al tarbajo mañana.`
